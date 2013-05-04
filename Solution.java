@@ -1,3 +1,6 @@
+//By Srujal S. Kachhela
+//Contact: srujal.k@gmail.com
+
 #include<iostream>
 #include<stdio.h>
 #include<stdlib.h>
